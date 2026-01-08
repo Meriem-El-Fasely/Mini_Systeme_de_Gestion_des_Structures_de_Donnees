@@ -6,13 +6,6 @@
 
 ![Interface d'accueil](screenshots/accueil.jpg)
 
-## Description
-**Data Structures Interactive Lab 🧪**
-
-Ce projet est une application interactive développée en **C** avec l'interface graphique **GTK3**. Elle permet de visualiser et de manipuler en temps réel les structures de données fondamentales de l'informatique.
-
-L'objectif est d'offrir une plateforme éducative et visuelle pour comprendre le fonctionnement interne des algorithmes.
-
 ## 📥 Téléchargement
 
 Vous avez deux options pour obtenir le projet :
@@ -27,6 +20,14 @@ git clone https://github.com/Meriem-El-Fasely/Mini_Systeme_de_Gestion_des_Struct
 1.  Cliquez sur le bouton vert **Code** en haut de la page GitHub.
 2.  Sélectionnez **Download ZIP**.
 3.  Extrayez le dossier sur votre ordinateur.
+
+## Description
+**Data Structures Interactive Lab 🧪**
+
+Ce projet est une application interactive développée en **C** avec l'interface graphique **GTK3**. Elle permet de visualiser et de manipuler en temps réel les structures de données fondamentales de l'informatique.
+
+L'objectif est d'offrir une plateforme éducative et visuelle pour comprendre le fonctionnement interne des algorithmes.
+
 
 ## Fonctionnalités Principales
 
