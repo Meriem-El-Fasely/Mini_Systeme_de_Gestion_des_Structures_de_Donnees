@@ -1,5 +1,7 @@
 # Mini Système de Gestion des Structures de Données
 
+![Interface d'accueil](screenshots/accueil.jpg)
+
 ## Description
 **Data Structures Interactive Lab 🧪**
 
@@ -9,13 +11,27 @@ L'objectif est d'offrir une plateforme éducative et visuelle pour comprendre le
 
 ## Fonctionnalités Principales
 
-Le système comprend 5 modules majeurs :
+Le système comprend 5 modules majeurs, chacun illustré ci-dessous :
 
-1.  **⚡ Algorithmes de Tri (Sorting)** : Comparaison visuelle et temporelle de différents algorithmes de tri (Bulle, Insertion, Rapide, etc.).
-2.  **🔗 Listes Chaînées (Linked Lists)** : Insertion, suppression, tri et visualisation des pointeurs.
-3.  **📚 Piles & Files (Stacks & Queues)** : Démonstration des principes LIFO et FIFO avec animations.
-4.  **🌲 Arbres (Trees)** : Visualisation d'arbres binaires et N-Aire, parcours (prefixe, infixe, postfixe) et manipulation dynamique.
-5.  **🕸️ Graphes (Graphs)** : Création de nœuds et d'arêtes, algorithmes de plus court chemin (Dijkstra, etc.) et visualisation graphique.
+### 1. ⚡ Algorithmes de Tri (Sorting)
+Comparaison visuelle et temporelle de différents algorithmes de tri (Bulle, Insertion, Rapide, etc.).
+![Algorithmes de Tri](screenshots/tri.jpg)
+
+### 2. 🔗 Listes Chaînées (Linked Lists)
+Insertion, suppression, tri et visualisation des pointeurs.
+![Listes Chaînées](screenshots/listes.jpg)
+
+### 3. 📚 Piles & Files (Stacks & Queues)
+Démonstration des principes LIFO et FIFO avec animations graphiques.
+![Piles et Files](screenshots/piles_files.jpg)
+
+### 4. 🌲 Arbres (Trees)
+Visualisation d'arbres binaires, parcours (prefixe, infixe, postfixe) et manipulation dynamique.
+![Arbres Binaires](screenshots/arbres.jpg)
+
+### 5. 🕸️ Graphes (Graphs)
+Création de nœuds et d'arêtes, algorithmes de plus court chemin (Dijkstra, etc.) et visualisation graphique.
+![Graphes](screenshots/graphes.jpg)
 
 ## Technologies Utilisées
 
