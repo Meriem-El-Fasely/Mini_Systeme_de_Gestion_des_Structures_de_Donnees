@@ -1,5 +1,9 @@
 # Mini Système de Gestion des Structures de Données
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Meriem-El-Fasely/Mini_Systeme_de_Gestion_des_Structures_de_Donnees)
+![GitHub license](https://img.shields.io/github/license/Meriem-El-Fasely/Mini_Systeme_de_Gestion_des_Structures_de_Donnees)
+![GitHub last commit](https://img.shields.io/github/last-commit/Meriem-El-Fasely/Mini_Systeme_de_Gestion_des_Structures_de_Donnees)
+
 ![Interface d'accueil](screenshots/accueil.jpg)
 
 ## Description
@@ -8,6 +12,21 @@
 Ce projet est une application interactive développée en **C** avec l'interface graphique **GTK3**. Elle permet de visualiser et de manipuler en temps réel les structures de données fondamentales de l'informatique.
 
 L'objectif est d'offrir une plateforme éducative et visuelle pour comprendre le fonctionnement interne des algorithmes.
+
+## 📥 Téléchargement
+
+Vous avez deux options pour obtenir le projet :
+
+### Option 1 : Via Git (Recommandé)
+Ouvrez votre terminal et exécutez :
+```bash
+git clone https://github.com/Meriem-El-Fasely/Mini_Systeme_de_Gestion_des_Structures_de_Donnees.git
+```
+
+### Option 2 : Télécharger le ZIP
+1.  Cliquez sur le bouton vert **Code** en haut de la page GitHub.
+2.  Sélectionnez **Download ZIP**.
+3.  Extrayez le dossier sur votre ordinateur.
 
 ## Fonctionnalités Principales
 
@@ -44,6 +63,7 @@ Création de nœuds et d'arêtes, algorithmes de plus court chemin (Dijkstra, et
 ### Prérequis
 *   GCC (GNU Compiler Collection)
 *   Bibliothèque GTK+ 3.0 (`libgtk-3-dev`)
+*   Sur Windows, il est recommandé d'utiliser **MSYS2** pour installer GTK3.
 
 ### Compilation
 Pour compiler le projet, utilisez simplement la commande `make` à la racine :
