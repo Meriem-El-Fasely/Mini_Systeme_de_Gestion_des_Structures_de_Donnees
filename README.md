@@ -11,11 +11,11 @@ L'objectif est d'offrir une plateforme éducative et visuelle pour comprendre le
 
 Le système comprend 5 modules majeurs :
 
-1.  **🌲 Arbres (Trees)** : Visualisation d'arbres binaires, parcours (prefixe, infixe, postfixe) et manipulation dynamique.
-2.  **🕸️ Graphes (Graphs)** : Création de nœuds et d'arêtes, algorithmes de plus court chemin (Dijkstra, etc.) et visualisation graphique.
-3.  **🔗 Listes Chaînées (Linked Lists)** : Insertion, suppression, tri et visualisation des pointeurs.
-4.  **📚 Piles & Files (Stacks & Queues)** : Démonstration des principes LIFO et FIFO avec animations.
-5.  **⚡ Algorithmes de Tri (Sorting)** : Comparaison visuelle et temporelle de différents algorithmes de tri (Bulle, Insertion, Rapide, etc.).
+1.  **⚡ Algorithmes de Tri (Sorting)** : Comparaison visuelle et temporelle de différents algorithmes de tri (Bulle, Insertion, Rapide, etc.).
+2.  **🔗 Listes Chaînées (Linked Lists)** : Insertion, suppression, tri et visualisation des pointeurs.
+3.  **📚 Piles & Files (Stacks & Queues)** : Démonstration des principes LIFO et FIFO avec animations.
+4.  **🌲 Arbres (Trees)** : Visualisation d'arbres binaires et N-Aire, parcours (prefixe, infixe, postfixe) et manipulation dynamique.
+5.  **🕸️ Graphes (Graphs)** : Création de nœuds et d'arêtes, algorithmes de plus court chemin (Dijkstra, etc.) et visualisation graphique.
 
 ## Technologies Utilisées
 
@@ -44,4 +44,4 @@ Lancez l'executable généré :
 ```
 
 ---
-*Projet réalisé dans le cadre du module de Structures de Données (LST_2I).*
+*Projet réalisé dans le cadre du module de Structures de Données Avancées (LST_2I).*
