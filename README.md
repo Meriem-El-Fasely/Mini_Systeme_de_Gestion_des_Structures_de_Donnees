@@ -6,20 +6,6 @@
 
 ![Interface d'accueil](screenshots/accueil.jpg)
 
-## 📥 Téléchargement
-
-Vous avez deux options pour obtenir le projet :
-
-### Option 1 : Via Git (Recommandé)
-Ouvrez votre terminal et exécutez :
-```bash
-git clone https://github.com/Meriem-El-Fasely/Mini_Systeme_de_Gestion_des_Structures_de_Donnees.git
-```
-
-### Option 2 : Télécharger le ZIP
-1.  Cliquez sur le bouton vert **Code** en haut de la page GitHub.
-2.  Sélectionnez **Download ZIP**.
-3.  Extrayez le dossier sur votre ordinateur.
 
 ## Description
 **Data Structures Interactive Lab 🧪**
@@ -79,6 +65,21 @@ Lancez l'executable généré :
 ```bash
 ./main
 ```
+
+## 📥 Téléchargement
+
+Vous avez deux options pour obtenir le projet :
+
+### Option 1 : Via Git (Recommandé)
+Ouvrez votre terminal et exécutez :
+```bash
+git clone https://github.com/Meriem-El-Fasely/Mini_Systeme_de_Gestion_des_Structures_de_Donnees.git
+```
+
+### Option 2 : Télécharger le ZIP
+1.  Cliquez sur le bouton vert **Code** en haut de la page GitHub.
+2.  Sélectionnez **Download ZIP**.
+3.  Extrayez le dossier sur votre ordinateur.
 
 ---
 *Projet réalisé dans le cadre du module de Structures de Données Avancées (LST_2I).*
